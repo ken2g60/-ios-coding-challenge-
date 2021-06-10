@@ -21,6 +21,5 @@ Please don't spend more than 3 hours on the test, we understand that your time i
 # -ios-coding-challenge-
 
 
-## Cocoapod installation
-# Update the package
+## Update the package
 `pod update`
