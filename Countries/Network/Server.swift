@@ -16,7 +16,7 @@ import CoreData
 // Create an account at https://rapidapi.com/developer/dashboard and add a new app to get an API key.
 // https://docs.rapidapi.com/docs/keys
 
-let kRapidAPIKey = "SIGN-UP-FOR-KEY"
+let kRapidAPIKey = "Q1wbmtfbHQmshTtLX8dB2yEC4Gnrp1YXspKjsns3GDYeVEcV3J"
 
 
 public typealias JSON = [String : Any]

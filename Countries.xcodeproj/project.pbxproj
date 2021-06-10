@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		04804FAC26719F6800705C95 /* CountriesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AF93B2A240EB2F600355AE7 /* CountriesUITests.swift */; };
 		1A5628A5241114F400E004AF /* CountryTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5628A4241114F400E004AF /* CountryTableViewCell.swift */; };
 		1A5628A6241160BE00E004AF /* DictionaryExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1AAA0341240EB8320073441E /* DictionaryExtension.swift */; };
 		1A5628A82411615F00E004AF /* HUD.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1A5628A72411615F00E004AF /* HUD.swift */; };
@@ -413,6 +414,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04804FAC26719F6800705C95 /* CountriesUITests.swift in Sources */,
 				1AF93B20240EB2F600355AE7 /* CountriesTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -580,7 +582,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = G45E8J53NY;
+				DEVELOPMENT_TEAM = 233LU5Y84F;
 				INFOPLIST_FILE = Countries/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
@@ -599,7 +601,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CODE_SIGN_STYLE = Automatic;
-				DEVELOPMENT_TEAM = G45E8J53NY;
+				DEVELOPMENT_TEAM = 233LU5Y84F;
 				INFOPLIST_FILE = Countries/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",

@@ -22,6 +22,8 @@ class Country: NSManagedObject, Mappable {
         
         guard map.JSON["name"] != nil,
             map.JSON["capital"] != nil,
+            map.JSON["region"] != nil,
+            map.JSON["area"] != nil,
             map.JSON["population"] != nil else {
                 assertionFailure("Failed to create Country")
                 return nil
@@ -36,6 +38,8 @@ class Country: NSManagedObject, Mappable {
             self.name <- map["name"]
             self.capital <- map["capital"]
             self.population <- map["population"]
+            self.region <- map["region"]
+            self.area <- map["area"]
         }
     }
     
