@@ -20,6 +20,7 @@ Please don't spend more than 3 hours on the test, we understand that your time i
 * Task completion.
 # -ios-coding-challenge-
 
-
+# Task Completion
+* Region and Area added to the UI
 ## Update the package
-`pod update`
+* pod update
