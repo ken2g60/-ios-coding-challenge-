@@ -19,3 +19,8 @@ Please don't spend more than 3 hours on the test, we understand that your time i
 * Commit history: we should be able to follow how you approached the problem, what the iterations were, and how roughly long it took.
 * Task completion.
 # -ios-coding-challenge-
+
+
+## Cocoapod installation
+# Update the package
+`pod update`
